@@ -1,0 +1,9 @@
+{
+    "name": "tswfi/translationtesting",
+    "description": "Testing translations",
+    "require": {
+        "iio/libmergepdf": "^4.0"
+    },
+    "type": "prestashop-module",
+    "license": "MIT"
+}
